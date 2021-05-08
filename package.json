@@ -27,9 +27,6 @@
         "sdi"
     ],
     "author": "Felix Bache, Muhammed KAlender",
-    "licenses": [{
-        "type": "CC BY 3",
-        "url": "http://creativecommons.org/licenses/by/3.0/"
-    }],
+    "licenses": ["MIT"],
     "readmeFilename": "README.md"
 }
