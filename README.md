@@ -1,3 +1,7 @@
+## Leaflet Coordinates
+
+[![NPM version](https://img.shields.io/npm/v/@muhammedkalender/leaflet-coordinates.svg)](https://www.npmjs.com/package/@muhammedkalender/leaflet-coordinates)
+
 Basen On [Leaflet.Coordinates](https://github.com/Leaflet/Leaflet)
 ===================
 
